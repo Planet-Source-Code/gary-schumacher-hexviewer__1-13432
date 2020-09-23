@@ -1,0 +1,6 @@
+LIBRARY		HexView.DLL
+
+
+EXPORTS
+	HexDump
+	
